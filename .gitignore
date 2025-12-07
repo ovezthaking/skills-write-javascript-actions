@@ -35,3 +35,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.github/actions/joke-action/node_modules
